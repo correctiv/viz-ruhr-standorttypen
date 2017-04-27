@@ -35,4 +35,8 @@ import addMapEvents from '../scripts/add_map_events.js'
     m && this.map.removeLayer(m)
   })
 
+  // riot.control.on(riot.EVT.clearInfobox, () => {
+  //   riot.control.trigger(riot.EVT.clearMarker)
+  // })
+
 </leaflet-map>
