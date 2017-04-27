@@ -27,4 +27,8 @@ import './map-legend.tag'
     this.update({data})
   })
 
+  riot.control.on(riot.EVT.clearInfobox, () => {
+    this.update({data: null})
+  })
+
 </map-infobox>
