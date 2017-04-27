@@ -1,0 +1,55 @@
+@import './vars.scss';
+
+// components
+@import './leaflet-map.scss';
+@import './infobox.scss';
+@import './legend.scss';
+@import './searchbox.scss';
+
+// base layout
+.cor-viz-st {
+
+  &__map-container {
+    display: block;
+    width: 100%;
+
+    @media (min-width: $screen-sm) {
+      width: 70%;
+      float: left;
+    }
+  }
+
+  &__info-container {
+    // position: relative;
+    display: block;
+    width: 100%;
+
+    @media (min-width: $screen-sm) {
+      float: left;
+      width: 30%;
+      padding-left: 20px;
+    }
+  }
+
+}
+
+
+.figure__credits {
+  clear: both;
+  margin-top: 14px;
+  color: #9c9c9c;
+  font-size: 14px;
+  line-height: 1.4;
+
+  a {
+    border: none;
+    text-decoration: underline;
+    color: inherit;
+  }
+
+  &>p:first-of-type:before {
+    // remove icon
+    content: '';
+    padding: 0;
+  }
+}

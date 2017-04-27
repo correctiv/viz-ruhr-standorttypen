@@ -1,0 +1,23 @@
+{
+  "leaflet": {
+    "elementId": "cor-viz-st-leaflet-map",
+    "tileLayer": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png",
+    "attribution": "Map data &copy; <a href='http://openstreetmap.org'>OpenStreetMap</a> contributors, <a href='http://creativecommons.org/licenses/by-sa/2.0/'>CC-BY-SA</a>",
+    "minZoom": 7,
+    "maxZoom": 16
+  },
+  "infobox" : {
+    "searchbox": {
+      "threshold": 4
+    },
+    "legend": {
+      "types": {
+        "s1": "Standorttyp 1",
+        "s2": "Standorttyp 2",
+        "s3": "Standorttyp 3",
+        "s4": "Standorttyp 4",
+        "s5": "Standorttyp 5"
+      }
+    }
+  }
+}

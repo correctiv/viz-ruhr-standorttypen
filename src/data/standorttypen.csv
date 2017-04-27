@@ -1,0 +1,337 @@
+id,name,schulform,street,plz,stadt,traeger,standorttyp,lat,lon
+0,Gesamtschule Brünninghausen,Gesamtschule ,Klüsenerskamp 15 / Fritz-Kahl-Straße,44225,Dortmund,Stadt Dortmund,3,51.4795983667,7.45592747466
+1,Geschwister-Scholl-Gesamtschule ,Gesamtschule ,Haferfeldstraße 3-5,44309,Dortmund,Stadt Dortmund,3,51.5300074617,7.55401984892
+2,Gustav-Heinemann-Gesamtschule,Gesamtschule,Parsevalstraße 170,44369,Dortmund,Stadt Dortmund,5,51.5335682203,7.40573534666
+3,Heinrich-Böll-Gesamtschule,Gesamtschule ,Volksgartenstraße 19,44388,Dortmund,Stadt Dortmund,4,51.5036910694,7.33641607036
+4,Martin-Luther-King-Gesamtschule,Gesamtschule,Fine Frau 50-58,44149,Dortmund,Stadt Dortmund,5,51.5023181001,7.40617045571
+5,Gesamtschule Scharnhorst,Gesamtschule ,Mackenrothweg 15,44328,Dortmund,Stadt Dortmund,5,51.5508744155,7.54488337515
+6,Emscherschule Aplerbeck,Hauptschule,Schweizer Allee 25,44287,Dortmund,Stadt Dortmund,4,51.4911698637,7.55917831945
+7,Schule am Hafen,Hauptschule,Scharnhorststr. 40,44147,Dortmund,Stadt Dortmund,5,51.5204790109,7.44652559317
+8,Hauptschule Westerfilde,Hauptschule,Im Odemsloh 107,44357,Dortmund,Stadt Dortmund,4,51.5455640404,7.36883922359
+9,Bert-Brecht-Gymnasium,Gymnasium,Sumbecks Holz 5,44379,Dortmund,Stadt Dortmund,4,51.5165536388,7.35912335115
+10,Goethe-Gymnasium,Gymnasium,Stettiner Straße 12,44263,Dortmund,Stadt Dortmund,3,51.4795497288,7.49197219613
+11,Heinrich-Heine-Gymnasium,Gymnasium,Dörwerstr. 34,44359,Dortmund,Stadt Dortmund,4,51.5586483141,7.39051646358
+12,Heisenberg-Gymnasium,Gymnasium,Preußische Str. 225,44339,Dortmund,Stadt Dortmund,4,51.5530507015,7.49485198052
+13,Helene-Lange-Gymnasium,Gymnasium,Am Hombruchsfeld 55a,44225,Dortmund,Stadt Dortmund,3,51.474431698,7.45069631966
+14,Helmholtz-Gymnasium,Gymnasium,Münsterstr. 122,44145,Dortmund,Stadt Dortmund,5,51.5266071789,7.45976113455
+15,Immanuel-Kant-Gymnasium,Gymnasium,Grüningsweg 42,44319,Dortmund,Stadt Dortmund,3,51.5316037064,7.59502642943
+16,Käthe-Kollwitz-Gymnasium,Gymnasium,Erzbergerstr. 1,44135,Dortmund,Stadt Dortmund,4,51.5105296077,7.47314815971
+17,Leibniz-Gymnasium,Gymnasium,Kreuzstr. 163,44137,Dortmund,Stadt Dortmund,4,51.5011891167,7.4421412631
+18,Mallinckrodt-Gymnasium,Gymnasium,Südrandweg 2-4,44139,Dortmund,"Erzbischöfliches Generalvikariat,",4,51.5093183945,7.46651166294
+19,Max-Planck-Gymnasium,Gymnasium,Ardeystraße 70-72,44139,Dortmund,Stadt Dortmund,3,51.4901165594,7.46016463396
+20,Phoenix-Gymnasium,Gymnasium,Seekante 12,44263,Dortmund,Stadt Dortmund,5,51.4924443497,7.50006816758
+21,Privatgymnasium Stadtkrone,Gymnasium,Lissaboner Allee 15,44269,Dortmund,Privatgymnasium Stadtkrone e.V.,3,51.5003225091,7.52347100185
+22,Gymnasium Reinoldus und Schiller,Gymnasium,Hallerey 49/51,44149,Dortmund,Stadt Dortmund,3,51.514609787,7.41107260742
+23,Gymnasium an der Schweizer Allee,Gymnasium,Schweizer Allee 18-20,44287,Dortmund,Stadt Dortmund,3,51.4915851094,7.56377149724
+24,"Albert-Einstein-Realschule
+",Realschule,Gleiwitzstr. 200,44328,Dortmund,Stadt Dortmund,5,51.5530204225,7.53161684065
+25,Albert-Schweitzer-Realschule,Realschule,Dörwerstr. 42,44359,Dortmund,Stadt Dortmund,4,51.5590158835,7.39211392489
+26,Albrecht-Dürer-Realschule,Realschule,Schweizer Allee 25,44287,Dortmund,Stadt Dortmund,3,51.4905730353,7.55944593625
+27,Max-Born-Realschule,Realschule,Dollersweg 18,44319,Dortmund,Stadt Dortmund,4,51.5355049462,7.62002819557
+28,Nikolaus-Kopernikus-Realschule,Realschule,Im Odemsloh 107,44357,Dortmund,Stadt Dortmund,5,51.5463933998,7.36863345364
+29,Robert-Koch-Realschule,Realschule,Am Hombruchsfeld 69,44225,Dortmund,Stadt Dortmund,4,51.4761824121,7.45086702421
+30,Theodor-Heuss-Realschule,Realschule,In der Großen Heide 15-17,44339,Dortmund,Stadt Dortmund,4,51.5524335051,7.49320245344
+31,Wilhelm-Busch-Realschule,Realschule,Höfkerstr. 7,44149,Dortmund,Stadt Dortmund,4,51.5173747553,7.4091266366
+32,Reinoldi-Sekundarschule,Sekundarschule,Im Odemsloh 107,44357,Dortmund,Stadt Dortmund,5,51.5463933998,7.36863345364
+33,Carolinengesamtschule Bochum,Gesamtschule,Springorumallee 1,44795,Bochum,Schul- und Bildungswerkstatt gGmbH,1,51.4547755522,7.20965818066
+34,Freie Schule Bochum,Gesamtschule,Wiemelhauser Str. 270,44799,Bochum,Freie Schule Bochum e.V.,3,51.4584029517,7.22820012163
+35,Heinrich-Böll-Schule,Gesamtschule,Agnesstraße 33,44791,Bochum,Stadt Bochum,4,51.4960624191,7.21901674505
+36,Willy-Brandt-Gesamtschule,Gesamtschule,Wittekindstraße 33,44894,Bochum,Stadt Bochum,4,51.4844076469,7.30148703417
+37,Albert-Schweitzer-Schule,Hauptschule,Stiftstr. 25/29,44892,Bochum,Stadt Bochum,5,51.4680868068,7.31734265776
+38,Heinrich-Kämpchen-Schule,Hauptschule,Dr.-C.-Otto-Straße 88,44879,Bochum,Stadt Bochum,4,51.4263720459,7.15066112746
+39,Liselotte-Rauner-Schule,Hauptschule,Voedestr. 46-48,44866,Bochum,Stadt Bochum,5,51.4815521336,7.13974120381
+40,Werner-von-Siemens-Schule,Hauptschule,Haydnstraße 3,44805,Bochum,Stadt Bochum,4,51.5053534634,7.26764538825
+41,Graf-Engelbert-Schule,Gymnasium,Königsallee 77-79,44789,Bochum,Stadt Bochum,3,51.4662300159,7.21979010625
+42,Heinrich-von-Kleist-Schule,Gymnasium,Heinrichstr. 2,44805,Bochum,Stadt Bochum,4,51.5158451569,7.27410270918
+43,Hellweg-Schule,Gymnasium,Lohackerstr. 13,44867,Bochum,Stadt Bochum,4,51.4716365802,7.14906511483
+44,Lessing-Schule,Gymnasium,Ottilienstr. 12,44892,Bochum,Stadt Bochum,3,51.4717631094,7.31575020969
+45,Märkische Schule,Gymnasium,Saarlandstr. 44,44866,Bochum,Stadt Bochum,4,51.4774362951,7.13593924476
+46,Schiller-Schule,Gymnasium,Waldring 71,44789,Bochum,Stadt Bochum,2,51.4640749785,7.22130117734
+47,Theodor-Körner-Schule,Gymnasium,Keilstr. 42-48,44879,Bochum,Stadt Bochum,2,51.4275975455,7.15126706323
+48,Anne-Frank-Schule,Realschule,Heinrichstr. 2,44805,Bochum,Stadt Bochum,4,51.5158451569,7.27410270918
+49,Franz-Dinnendahl-Schule,Realschule,Lenneplatz 21,44807,Bochum,Stadt Bochum,4,51.4967418165,7.24419267001
+50,Realschule Höntrop,Realschule,Höntroper Str. 99,44869,Bochum,Stadt Bochum,4,51.460671383,7.1626464071
+51,Hugo-Schultz-Schule,Realschule,Dr.-C.-Otto-Straße 88,44879,Bochum,Stadt Bochum,3,51.4262279801,7.150686265
+52,Nelson-Mandela-Schule,Sekundarschule,Stiftstr. 25,44892,Bochum,Stadt Bochum,5,51.4680868068,7.31734265776
+53,Erich-Fried-Gesamtschule,Gesamtschule,Grabenstraße 14,44625,Herne,Stadt Herne,4,51.5354135352,7.20081240749
+54,Mont-Cenis-Gesamtschule ,Gesamtschule,Mont-Cenis-Straße 180,44627,Herne,Stadt Herne,5,51.5378917841,7.24672713722
+55,Hans-Tilkowski-Schule,Hauptschule,Neustraße 16,44623,Herne,Stadt Herne,5,51.5431396984,7.22553604453
+56,Melanchthonschule,Hauptschule,Edmund-Weber-Straße 127,44651,Herne,Stadt Herne,5,51.5104866485,7.16803401538
+57,Gymnasium Eickel,Gymnasium,Gabelsbergerstr. 22,44652,Herne,Stadt Herne,4,51.5222731363,7.16144830167
+58,Haranni Gymnasium,Gymnasium,Hermann-Löns-Str. 58,44623,Herne,Stadt Herne,4,51.5422637829,7.22678102476
+59,Otto-Hahn-Gymnasium,Gymnasium,Hölkeskampring 168,44625,Herne,Stadt Herne,4,51.5390223906,7.24012762753
+60,Pestalozzi-Gymnasium,Gymnasium,Harpener Weg 6,44629,Herne,Stadt Herne,3,51.5441032819,7.21238616246
+61,Gymnasium Wanne,Gymnasium,Gerichtsstr. 9/11,44649,Herne,Stadt Herne,5,51.5289320668,7.15797187157
+62,Realschule An der Burg,Realschule,Burgstr. 71,44651,Herne,Stadt Herne,5,51.514745231,7.16913697874
+63,Realschule Crange,Realschule,Semler Str. 4,44649,Herne,Stadt Herne,5,51.5400213002,7.15276155135
+64,realschule Strünkede,Realschule,Bismarckstr. 41,44629,Herne,Stadt Herne,5,51.5461940612,7.2127300641
+65,Fasia-Jansen-Gesamtschule,Gesamtschule,Schwartzstraße 87,46045,Oberhausen,Stadt Oberhausen,5,51.4735005596,6.86263355668
+66,Heinrich-Böll-Gesamtschule,Gesamtschule,Schmachtendorfer Straße 165,46147,Oberhausen,Stadt Oberhausen,3,51.5432154026,6.81860222579
+67,Gesamtschule Osterfeld,Gesamtschule,Heinestr. 22,46117,Oberhausen,Stadt Oberhausen,5,51.5035052899,6.88774163764
+68,Gesamtschule Weierheide,Gesamtschule,Egelsfurthstr. 66,46149,Oberhausen,Stadt Oberhausen,4,51.5172450602,6.82927283244
+69,Anne-Frank-Realschule,Realschule,Goebenstr. 140,46045,Oberhausen,Stadt Oberhausen,5,51.4667252481,6.85129538915
+70,Janusz-Korczak-Gesamtschule,Gesamtschule,Horster Straße 114,46236,Bottrop,Stadt Bottrop,5,51.5268461982,6.93654020417
+71,Willy-Brandt-Gesamtschule,Gesamtschule,Brömerstraße 12,46240,Bottrop,Stadt Bottrop,4,51.543289185,6.9293531683
+72,Hauptschule Welheim,Hauptschule,Welheimer Str. 80-82,46238,Bottrop,Stadt Bottrop,5,51.5269957256,6.97877845757
+73,Vestisches Gymnasium,Gymnasium,Schulstraße 25,46244,Bottrop,Stadt Bottrop,1,51.6063836176,6.91954057201
+74,August-Everding-Realschule,Realschule,Gorch-Fock-Straße 21,46242,Bottrop,Stadt Bottrop,3,51.5336178798,6.89582152169
+75,Gustav-Heinemann-Realschule,Realschule,Paßstraße 12,46236,Bottrop,Stadt Bottrop,4,51.5226754245,6.93204565045
+76,Marie-Curie-Realschule,Realschule,Friedrich-Ebert-Str. 120/124,46236,Bottrop,Stadt Bottrop,4,51.5208516463,6.931936375
+77,Hans-Jonas-Gesamtschule Neuwerk,Gesamtschule,Nespelerstr. 75,41066,Mönchengladbach,Stadt Mönchengladbach,4,51.2207241685,6.46667629787
+78,Gesamtschule Hardt,Gesamtschule,Vossenbäumchen 50,41169,Mönchengladbach,Stadt Mönchengladbach,2,51.1993476627,6.34838461667
+79,Gesamtschule Rheydt-Mülfort,Gesamtschule,Realschulstraße 14,41238,Mönchengladbach,Stadt Mönchengladbach,4,51.1526030033,6.45646987521
+80,Gesamtschule Stadtmitte,Gesamtschule,Aachener Straße 179,41061,Mönchengladbach,Stadt Mönchengladbach,4,51.1902416168,6.42222556251
+81,Gemeinschaftshauptschule Dohr,Hauptschule,Altenbroicher Straße 50-52,41238,Mönchengladbach,Stadt Mönchengladbach,5,51.1538164837,6.4633281636
+82,Heinrich-Lersch-Schule,Hauptschule,Rohrstraße 43,41065,Mönchengladbach,Stadt Mönchengladbach,5,51.1991120148,6.46072077931
+83,Gymnasium Am Geroweiher,Gymnasium,Balderichstr. 8,41061,Mönchengladbach,Stadt Mönchengladbach,4,51.1937656521,6.42705004202
+84,Gymnasium An der Gartenstraße,Gymnasium,Gartenstr. 154,41236,Mönchengladbach,Stadt Mönchengladbach,4,51.1744105301,6.44694738815
+85,Franz-Meyers-Gymnasium,Gymnasium,Asternweg 1,41238,Mönchengladbach,Stadt Mönchengladbach,3,51.1570196299,6.48472967019
+86,Bischöfliche Marienschule,Gymnasium,Viersener Straße 209,41063,Mönchengladbach,Bistum Aachen,3,51.2052188489,6.42413680884
+87,Gymnasium Rheindahlen,Gymnasium,Geusenstraße 29,41179,Mönchengladbach,Stadt Mönchengladbach,2,51.1500137539,6.36727818497
+88,Stiftisches Humanistisches Gymnasium,Gymnasium,Abteistr. 17,41061,Mönchengladbach,Stadt Mönchengladbach,2,51.1930290296,6.43425297489
+89,Realschule an der Niers,Realschule,GiesenkirchenerStr. 8,41238,Mönchengladbach,Stadt Mönchengladbach,5,51.151516854,6.45608755977
+90,Geschwister-Scholl-Realschule,Realschule,Karl-Fegers-Straße 85,41068,Mönchengladbach,Stadt Mönchengladbach,4,51.2013203513,6.40824816924
+91,Realschule Wickrath,Realschule,Kreuzhütte 24,41189,Mönchengladbach,Stadt Mönchengladbach,4,51.1267349988,6.40733304249
+92,Janusz-Korczak-Gesamtschule,Gesamtschule,Waldenburger Straße 130,44581,Castrop-Rauxel,Stadt Castrop-Rauxel,3,51.5991067373,7.33156599206
+93,Willy-Brandt-Gesamtschule,Gesamtschule,Bahnhofstraße 160,44575,Castrop-Rauxel,Stadt Castrop-Rauxel,4,51.5637227508,7.3104423581
+94,Fridtjof-Nansen-Realschule,Realschule,Lange Straße 18,44579,Castrop-Rauxel,Stadt Castrop-Rauxel,3,51.5833145984,7.30670642509
+95,Johannes-Rau-Realschule,Realschule,Kleine Lönsstraße 60,44575,Castrop-Rauxel,Stadt Castrop-Rauxel,4,51.551742746,7.30463359733
+96,Comenius-Gymnasium,Gymnasium,Südring 150,45711,Datteln,Stadt Datteln,2,51.6486851446,7.33494006497
+97,Gesamtschule Wulfen,Gesamtschule,Wulfener Markt 2,46286,Dorsten,Stadt Dorsten,3,51.7272790896,7.02851638018
+98,Gymnasium Petrinum,Gymnasium,Im Werth 17,46282,Dorsten,Stadt Dorsten,2,51.6652039001,6.96310906686
+99,Gymnasium St. Ursula ,Gymnasium,Ursulastr. 8-10,46282,Dorsten,Stiftung St. Ursula Dorsten,2,51.661288826,6.96593097982
+100,Montessori Reformschule,Realschule,Kleiner Ring 2,46286,Dorsten,Montessori-Schule Dorsten/Lembeck e.V.,2,51.7214450664,7.01724082687
+101,Realschule St. Ursula,Realschule,Nonnenkamp 14,46282,Dorsten,Stiftung St. Ursula Dorsten,2,51.6533222778,6.95641254302
+102,Ingeborg-Drewitz-Gesamtschule,Gesamtschule,Fritz-Erler-Str. 4,45966,Gladbeck,Stadt Gladbeck,5,51.5826939301,6.96172413012
+103,Anne-Frank-Realschule,Realschule,Kortestr. 13,45964,Gladbeck,Stadt Gladbeck,4,51.5687579862,6.98281937015
+104,Erich-Kästner-Realschule,Realschule,Kortenkamp 11,45968,Gladbeck,Stadt Gladbeck,4,51.5436738484,7.0121325214
+105,Werner-von-Siemens-Realschule,Realschule,Kortestr. 10,45964,Gladbeck,Stadt Gladbeck,4,51.5700736734,6.98241504176
+106,Rosa-Parks-Schule,Gesamtschule,Fritz-Erler-Str. 2,45701,Herten,Stadt Herten,5,51.6090225426,7.13743092476
+107,Martin-Luther-Schule,Hauptschule,Martin-Luther-Str. 3,45701,Herten,Stadt Herten,4,51.608956528,7.08846263019
+108,Theodor-Heuss-Schule,Hauptschule,Fritz-Erler-Straße 2,45701,Herten,Stadt Herten,5,51.6088775041,7.13755722275
+109,Erich-Klausener-Schule,Realschule,Ebbelicher Weg 19,45699,Herten,Bistum Münster,3,51.6006400658,7.12960066457
+110,Willy-Brandt-Schule,Realschule,Ernst-Reuter-Platz 10-20,45699,Herten,Stadt Herten,4,51.5999208031,7.13334984847
+111,Martin-Luther-Schule,Sekundarschule,Martin-Luther-Str. 3,45701,Herten,Stadt Herten,4,51.608956528,7.08846263019
+112,Martin-Luther-King-Schule,Gesamtschule,Georg-Herwegh-Str. 63-67,45772,Marl,Stadt Marl,5,51.6632477941,7.14591388371
+113,Albert-Schweitzer/Geschwister Scholl-Gymnasium,Gymnasium,Max-Planck-Str. 23,45768,Marl,Stadt Marl,3,51.6624868973,7.09856130317
+114,Gymnasium Im Loekamp,Gymnasium,Loekampstr. 80,45770,Marl,Stadt Marl,2,51.6608098994,7.12755560806
+115,Ernst-Immel-Realschule,Realschule,Droste-Hülshoff-Str. 36,45772,Marl,Stadt Marl,4,51.6621981081,7.13646412776
+116,Günther-Eckerland-Realschule,Realschule,Merkelheider Weg 21,45772,Marl,Stadt Marl,4,51.6893911031,7.12491064842
+117,Willy-Brandt-Gymnasium,Gymnasium,Christoph-Stöver-Straße 4,45739,Oer-Erkenschwick,Stadt Oer-Erkenschwick,3,51.6384749211,7.25585434687
+118,Christoph-Stöver-Schule,Realschule,Christoph-Stöver-Str. 2,45739,Oer-Erkenschwick,Stadt Oer-Erkenschwick,3,51.6389457801,7.2572107981
+119,Wolfgang-Borchert-Gesamtschule,Gesamtschule,Beisinger Weg 80,45657,Recklinghausen,Stadt Recklinghausen,4,51.6243752704,7.18907994544
+120,Marie-Curie-Gymnasium,Gymnasium,Görresstr. 5,45657,Recklinghausen,Stadt Recklinghausen,3,51.6191888437,7.20144876714
+121,Theodor-Heuss-Gymnasium,Gymnasium,Theodor-Körner-Str. 25,45661,Recklinghausen,Stadt Recklinghausen,4,51.5721153145,7.20940987105
+122,Dietrich-Bonhoeffer-Schule,Realschule,Hunsrückstr. 15,45665,Recklinghausen,Stadt Recklinghausen,4,51.6148099416,7.20772910729
+123,Maristenschule,Realschule,Hertener Str. 60,45657,Recklinghausen,Bistum Münster,3,51.610071417,7.18584772201
+124,Theodor-Heuss-Gymnasium,Gymnasium,Theodor-Heuss-Str. 1,45731,Waltrop,Stadt Waltrop,2,51.6205704832,7.4011448827
+125,Gesamtschule Berger Feld,Gesamtschule,Adenauerallee 110,45891,Gelsenkirchen,Stadt Gelsenkirchen,5,51.5571102824,7.07198299538
+126,Gesamtschule Buer-Mitte,Gesamtschule,Nollenpad 29,45894,Gelsenkirchen,Stadt Gelsenkirchen,4,51.577768931,7.04370364082
+127,Gesamtschule Erle,Gesamtschule,Mühlbachstraße 3,45891,Gelsenkirchen,Stadt Gelsenkirchen,5,51.5592305706,7.0973690334
+128,Evangelische Gesamtschule,Gesamtschule,Laarstr. 41,45889,Gelsenkirchen,Evangelische Kirche von Westfalen,5,51.530119377,7.09998337879
+129,Gesamtschule Horst,Gesamtschule,Devensstr. 15,45899,Gelsenkirchen,Stadt Gelsenkirchen,5,51.5350042227,7.02201446794
+130,Hauptschule Am Dahlbusch,Hauptschule,Am Dahlbusch 98,45884,Gelsenkirchen,Stadt Gelsenkirchen,5,51.4918284804,7.091300445
+131,Carl-Friedrich-Gauß-Gymnasium,Gymnasium,Hammerschmidtstr. 13,45888,Gelsenkirchen,Stadt Gelsenkirchen,4,51.5151627999,7.11139291546
+132,Annette-von-Droste-Hülshoff-Gymnasium,Gymnasium,Goldbergstr. 93,45894,Gelsenkirchen,Stadt Gelsenkirchen,3,51.5813216727,7.064459072
+133,Realschule an der St. Michael-Straße,Realschule,St.-Michael-Straße 1,45896,Gelsenkirchen,Stadt Gelsenkirchen,4,51.6020808089,7.05694821274
+134,Gerhart-Hauptmann-Realschule,Realschule,Mühlbachstraße 3,45891,Gelsenkirchen,Stadt Gelsenkirchen,4,51.5592305706,7.0973690334
+135,Gertrud-Bäumer-Realschule,Realschule,Rotthauser Str. 2-4,45879,Gelsenkirchen,Stadt Gelsenkirchen,5,51.5070915041,7.09414253242
+136,Lessing-Realschule,Realschule,Grenzstr. 3,45881,Gelsenkirchen,Stadt Gelsenkirchen,5,51.5171057481,7.08726552951
+137,Sekundarschule Hassel,Sekundarschule,Eppmannsweg 34,45896,Gelsenkirchen,Stadt Gelsenkirchen,5,51.6020808089,7.05694821274
+138,Gesamtschule Kaiserplatz,Gesamtschule,Kaiserplatz 50,47800,Krefeld,Stadt Krefeld,4,51.3433818596,6.59027068935
+139,Robert-Jungk-Schule,Gesamtschule,Reepenweg 40,47839,Krefeld,Stadt Krefeld,3,51.3701505408,6.49710108568
+140,Gesamtschule Uerdingen,Gesamtschule,Uerdinger Straße 783,47800,Krefeld,Stadt Krefeld,4,51.3497836736,6.63292660678
+141,Gartenstadtschule,Hauptschule,Breslauer Straße 280,47829,Krefeld,Stadt Krefeld,4,51.3659454752,6.61768481563
+142,Josef-Hafels-Schule,Hauptschule,Hafelsstr. 41,47807,Krefeld,Stadt Krefeld,5,51.3076659316,6.58936772575
+143,Gymnasium Am Moltkeplatz,Gymnasium,Moltkeplatz 12,47799,Krefeld,Stadt Krefeld,3,51.3390515418,6.57903600039
+144,Fabritianum,Gymnasium,Fabritiusstr. 15a,47829,Krefeld,Stadt Krefeld,2,51.3493506621,6.64147549006
+145,Fichte-Gymnasium,Gymnasium,Lindenstraße 52,47798,Krefeld,Stadt Krefeld,5,51.3273739688,6.56086922322
+146,Horkesgath-Gymnasium,Gymnasium,Horkesgath 33,47803,Krefeld,Stadt Krefeld,4,51.3367804351,6.52899832522
+147,Maria-Sibylla-Merian-Gymnasium,Gymnasium,Johannes-Blum-Straße 101,47807,Krefeld,Stadt Krefeld,4,51.3127391165,6.58505832468
+148,Ricarda-Huch-Gymnasium,Gymnasium,Moerser Str. 36,47798,Krefeld,Stadt Krefeld,4,51.3394312669,6.56570904193
+149,Albert-Schweitzer-Schule,Realschule,Lewerentzstr. 136,47798,Krefeld,Stadt Krefeld,5,51.3253514253,6.55712887247
+150,Edmund-ter-Meer-Schule,Realschule,Uerdinger Str. 783,47800,Krefeld,Stadt Krefeld,4,51.3497836736,6.63292660678
+151,Realschule Horkesgath,Realschule,Horkesgath 33,47803,Krefeld,Stadt Krefeld,4,51.3367804351,6.52899832522
+152,Carl-Fuhlrott-Schule,Hauptschule,Rankestr. 2,40699,Erkrath,Stadt Erkrath,4,51.2082894253,6.96522322161
+153,Gymnasium Hochdahl,Gymnasium,Rankestr. 4-6,40699,Erkrath,Stadt Erkrath,4,51.2085283056,6.96568614231
+154,Immanuel-Kant-Gymnasium,Gymnasium,Herzogstr. 75,42579,Heiligenhaus,Stadt Heiligenhaus,3,51.3238698389,6.97146384496
+155,Evangelische Gesamtschule Hilden,Gesamtschule,Gerresheimer Str. 74,40721,Hilden,Evangelische Kirche,3,51.1735835564,6.92853544573
+156,Dietrich-Bonhoeffer-Gymnasium,Gymnasium,Gerresheimer Str. 74,40721,Hilden,Evangelische Kirche,3,51.1735835564,6.92853544573
+157,Wilhelm-Fabry-Realschule,Realschule,Am Holterhöfchen 26,40724,Hilden,Stadt Hilden,5,51.1651611781,6.94533653419
+158,Wilhelmine-Fliedner-Realschule,Realschule,Gerresheimer Str. 74,40721,Hilden,Evangelische Kirche,3,51.1735835564,6.92853544573
+159,Anne-Frank-Schule,Hauptschule,Borner Weg 5,40822,Mettmann,Stadt Mettmann,4,51.2564597155,6.97186149981
+160,Carl-Fuhlrott-Realschule,Realschule,Goethestr. 33,40822,Mettmann,Stadt Mettmann,3,51.2560413105,6.96920256116
+161,Elsa-Brandström-Schule,Hauptschule,Duisburger Straße 112,40885,Ratingen,Stadt Ratingen,4,51.3435985332,6.82643605657
+162,Carl-Friedrich-von-Weizsäcker-Gymnasium,Gymnasium,Karl-Mücher-Weg 2,40878,Ratingen,Stadt Ratingen,2,51.2894488662,6.85179733365
+163,Dietrich-Bonhoeffer-Gymnasium,Gymnasium,Erfurter Str. 30,40880,Ratingen,Stadt Ratingen,4,51.2917451323,6.81845141688
+164,Kopernikus-Gymnasium,Gymnasium,Duisburger Str. 112,40885,Ratingen,Stadt Ratingen,2,51.3430225941,6.82780348192
+165,Käthe-Kollwitz-Schule,Realschule,Erfurter Straße 40,40880,Ratingen,Stadt Ratingen,5,51.2924317619,6.81923777809
+166,Martin-Luther-King-Schule,Hauptschule,Grünstr. 35,42551,Velbert,Stadt Velbert,4,51.3399968438,7.05046340867
+167,Geschwister-Scholl-Gymnasium,Gymnasium,Von-Humboldt-Straße 54-58,42549,Velbert,Stadt Velbert,3,51.3425944681,7.01790074754
+168,Nikolaus-Ehlen-Gymnasium,Gymnasium,Friedrich-Ebert-Str. 81,42549,Velbert,Stadt Velbert,2,51.3366882199,7.04451856298
+169,Heinrich-Kölver-Schule,Realschule,An der Maikammer 46-54,42553,Velbert,Stadt Velbert,3,51.3089430089,7.07594168123
+170,Theodor-Heuss-Schule,Realschule,Bergstr. 20,42489,Wülfrath,Stadt Wülfrath,4,51.2847557289,7.02977999473
+171,Helene‐Lange-Realschule,Realschule,Joseph-Boismard-Weg 10,45276,Essen,Stadt Essen,5,51.4450594672,7.07295287594
+172,Albert‐Einstein-Realschule,Realschule,Ardeyplatz 1,45134,Essen,Stadt Essen,3,51.4249749535,7.04453192231
+173,Bertha‐Krupp-Realschule,Realschule,Kerckhoffstr. 43,45144,Essen,Stadt Essen,5,51.4523018821,6.98516448166
+174,Gertrud‐Bäumer-Realschule,Realschule,Grünstr. 54,45326,Essen,Stadt Essen,5,51.4925711604,7.00624857873
+175,Bertha‐von‐Suttner-Realschule,Realschule,Karolinenstr. 1-3,45130,Essen,Stadt Essen,5,51.4370506081,7.01958210262
+176,Franz‐Dinnendahl‐Realschule,Realschule,Schönscheidtstr. 174,45307,Essen,Stadt Essen,5,51.4553645544,7.06856176682
+177,Geschwister‐Scholl-Realschule,Realschule,Hülsmannstr. 46,45355,Essen,Stadt Essen,5,51.4782425299,6.95034175379
+178,Gustav‐Heinemann-Gesamtschule,Gesamtschule,Schonnebeckhöfe 58-64,45309,Essen,Stadt Essen,4,51.4863487817,7.05658772853
+179,Frida‐Levy-Gesamtschule,Gesamtschule,Varnhorststraße 2,45127,Essen,Stadt Essen,4,51.4546483496,7.01772977165
+180,Leibniz-Gymnasium,Gymnasium,Stankeitstr. 22,45326,Essen,Stadt Essen,5,51.4928723769,7.01302279219
+181,Carl‐Humann-Gymnasium,Gymnasium,Laurentiusweg 20,45276,Essen,Stadt Essen,4,51.4481510055,7.07006201789
+182,Gymnasium Essen Werden,Gymnasium,Grafenstr. 9,45239,Essen,Stadt Essen,1,51.3885286295,6.99992750102
+183,Helmholtz-Gymnasium,Gymnasium,Rosastr. 83,45130,Essen,Stadt Essen,2,51.4363493979,7.0164888835
+184,Gymnasium Essen-Überruhr,Gymnasium,Langenberger Straße 380,45277,Essen,Stadt Essen,3,51.4244585182,7.06989667977
+185,Viktoria-Gymnasium,Gymnasium,Kurfürstenplatz 1,45138,Essen,Stadt Essen,4,51.4507732742,7.0250667044
+186,Gymnasium An der Wolfskuhle,Gymnasium,Pinxtenweg 6,45276,Essen,Stadt Essen,4,51.4514044129,7.09059516124
+187,Grashof-Gymnasium,Gymnasium,Grashofstr. 55,45133,Essen,Stadt Essen,3,51.4167055837,6.98855338853
+188,Theodor‐Heuss-Gymnasium,Gymnasium,Hauptstr. 148,45219,Essen,Stadt Essen,1,51.3655526837,6.93472488155
+189,Ernst-Eversbusch-Schule,Hauptschule,Berliner Str. 109,58135,Hagen,Stadt Hagen,5,51.3478776295,7.42865253894
+190,Hauptschule Hohenlimburg,Hauptschule,Wachtelweg 19-21,58119,Hagen,Stadt Hagen,4,51.362185727,7.56568454589
+191,Heinrich-Heine-Schule,Realschule,Kapellenstr. 38,58099,Hagen,Stadt Hagen,5,51.3838476822,7.4682286343
+192,Realschule Halden,Realschule,Lützowstr. 115/117,58095,Hagen,Stadt Hagen,4,51.3684866733,7.49443357176
+193,"Realschule Emst
+",Realschule,Schwelmstück 3,58093,Hagen,Stadt Hagen,5,51.3535683164,7.50623302564
+194,Luise-Rehling-Realschule,Realschule,Friedensstr. 26,58097,Hagen,Stadt Hagen,5,51.3680144965,7.46563982384
+195,Realschule Hohenlimburg,Realschule,Im Kley 32,58119,Hagen,Stadt Hagen,3,51.3638286322,7.56948121637
+196,Gesamtschule Haspe,Gesamtschule,Kirmesplatz 2,58135,Hagen,Stadt Hagen,3,51.3468586318,7.41708041417
+197,Theodor-Heuss-Gymnasium,Gymnasium,Humpertstraße 19,58097,Hagen,Stadt Hagen,3,51.3698165691,7.47817709679
+198,Gymnasium Hohenlimburg,Gymnasium,Wiesenstr. 27,58119,Hagen,Stadt Hagen,2,51.3631906123,7.570678765
+199,Ricarda-Huch-Gymnasium,Gymnasium,Voswinckelstr. 1,58095,Hagen,Stadt Hagen,5,51.3612985797,7.47360966761
+200,Fichte-Gymnasium,Gymnasium,Goldbergstr. 20,58095,Hagen,Stadt Hagen,4,51.3562243404,7.4682353099
+201,Martin-Luther-Schule,Hauptschule,Bockelweg 83,59073,Hamm,Stadt Hamm,5,51.7082179842,7.81493945161
+202,Albert-Schweitzer-Schule,Hauptschule,Stefanstr. 33,59075,Hamm,Stadt Hamm,5,51.6952746054,7.74597340386
+203,Karlschule,Hauptschule,Westberger Weg 17/19,59065,Hamm,Stadt Hamm,5,51.6943023144,7.80943090667
+204,Anne-Frank-Schule,Hauptschule,Frankenstr. 12,59067,Hamm,Stadt Hamm,5,51.6703608181,7.77825649412
+205,Falkschule,Hauptschule,An der Falkschule 9,59077,Hamm,Stadt Hamm,5,51.6595103669,7.74487485229
+206,Erlenbachschule,Hauptschule,Kirchweg 90,59071,Hamm,Stadt Hamm,3,51.6741502998,7.87789140788
+207,Marienschule,Realschule,Franziskanerstr. 1,59065,Hamm,"Erzbischöfliches Generalvikariat,",3,51.6837508802,7.82199851412
+208,Realschule Mark,Realschule,Marker Dorfstr. 8,59071,Hamm,Stadt Hamm,3,51.683356912,7.85487549017
+209,Galilei-Gymnasium,Gymnasium,Dr.-Voßhage-Straße 1,59065,Hamm,Stadt Hamm,4,51.690088577,7.78362262207
+210,Beisenkamp-Gymnasium,Gymnasium,Am Beisenkamp 1,59063,Hamm,Stadt Hamm,3,51.6726866647,7.83013531943
+211,Gymnasium Hammonense,Gymnasium,Adenauerallee 2,59065,Hamm,Stadt Hamm,4,51.6847114714,7.81919724594
+212,Märkisches Gymnasium,Gymnasium,Wilhelm-Liebknecht-Str. 11,59067,Hamm,Stadt Hamm,4,51.6631094121,7.79150283436
+213,Freiherr-vom-Stein-Gymnasium,Gymnasium,Karl-Koßmannstr. 2,59071,Hamm,Stadt Hamm,3,51.6819271432,7.8283789713
+214,Friedensschule,Gesamtschule,Marker Allee 20,59063,Hamm,Stadt Hamm,4,51.681450834,7.8292877256
+215,Konrad-Adenauer-Realschule,Realschule,Heideweg 4,59069,Hamm,Stadt Hamm,2,51.6452593243,7.84609795816
+216,"Schule ""Am Windmühlenberg""",Hauptschule,Bahnhofstraße 1,59368,Werne,Stadt Werne,2,51.6654585295,7.63199722578
+217,Erich-Kästner-Schule,Hauptschule,Waltroperstraße 19,59379,Selm,Stadt Selm,2,51.6630244953,7.46801545796
+218,ProfilSchuleLünen,Hauptschule,Friedhofstr. 4,44536,Lünen,Stadt Lünen,4,51.5971263758,7.44429815398
+219,Pestalozzischule,Hauptschule,Woortstraße 110,59199,Bönen,Gemeinde Bönen,3,51.595443926,7.76996761331
+220,Hellweg-Realschule ,Realschule,Königsborner Str. 12,59427,Unna,Stadt Unna,3,51.541581775,7.6533301862
+221,Ludwig-Uhland-Realschule,Realschule,Preußenstraße 162,44532,Lünen,Stadt Lünen,4,51.5981911178,7.5564427477
+222,Freiherr-vom-Stein-Realschule,Realschule,Hochstraße 54 a,59192,Bergkamen,Stadt Bergkamen,3,51.6214497966,7.64978295827
+223,Realschule Oberaden,Realschule,Pantenweg 12,59192,Bergkamen,Stadt Bergkamen,3,51.6107405949,7.59719970585
+224,Humboldt-Realschule,Realschule,Billy-Montigny-Platz 5,59199,Bönen,Gemeinde Bönen,3,51.602835035,7.76445222652
+225,Fridtjof-Nansen-Realschule ,Realschule,Gutenbergstr. 2,59174,Kamen,Stadt Kamen,3,51.5889771375,7.67768647353
+226,Otto-Hahn-Realschule,Realschule,Südkirchener Str. 16,59379,Selm,Stadt Selm,1,51.7006324206,7.47091048393
+227,Peter-Weiss-Gesamtschule Unna,Gesamtschule,Herderstraße 16,59423,Unna,Stadt Unna,3,51.5331405683,7.69622494382
+228,Willy-Brandt-Gesamtschule,Gesamtschule,Am Friedrichsberg 30,59192,Bergkamen,Stadt Bergkamen,4,51.6232214502,7.64908053487
+229,Käthe-Kollwitz-Gesamtschule,Gesamtschule,Dammwiese 8,44532,Lünen,Stadt Lünen,5,51.5890921245,7.52087245881
+230,Geschwister-Scholl-Gymnasium,Gymnasium,Palaiseaustraße 2,59425,Unna,Stadt Unna,2,51.5467157103,7.69315000874
+231,Ernst-Barlach-Gymnasium,Gymnasium,Seminarstr. 4,59423,Unna,Stadt Unna,2,51.5305186684,7.69485871418
+232,Pestalozzi-Gymnasium,Gymnasium,Morgenstr. 47-51,59423,Unna,Stadt Unna,2,51.5350024976,7.69878325553
+233,Clara-Schumann-Gymnasium,Gymnasium,Opherdicker Str. 44,59439,Holzwickede,Gemeinde Holzwickede,2,51.4972205236,7.62373372409
+234,Anne-Frank-Gymnasium,Gymnasium,Goetheweg 12,59368,Werne,Stadt Werne,2,51.6701020953,7.61757408301
+235,Marie-Curie-Gymnasium,Gymnasium,Billy-Montigny-Platz 5,59199,Bönen,Gemeinde Bönen,1,51.601949789,7.76707408969
+236,Freiherr-vom-Stein-Gymnasium,Gymnasium,Friedenstr. 12,44532,Lünen,Stadt Lünen,3,51.6110317044,7.51574166705
+237,Overbergschule,Hauptschule,Rhienscher Berg 12,58452,Witten ,Stadt Witten,4,51.4364192008,7.34818616406
+238,Gustav-Heinemann-Schule,Hauptschule,Holthausstr. 15,58332,Schwelm,Stadt Schwelm,4,51.2848091668,7.28036968312
+239,Otto-Schott-Realschule,Realschule,Am Viehmarkt 5,58452,Witten ,Stadt Witten,4,51.43836729,7.34448973698
+240,St. Jacobus-Schule,Realschule,Wahnscheider Straße 13,58339,Breckerfeld,Evangelische Kirche von Westfalen,1,51.2605540876,7.47246268724
+241,Realschule Grünstraße,Realschule,Grünstr. 27-29,45525,Hattingen,Stadt Hattingen,3,51.3914919575,7.1853164179
+242,Dietrich-Bonhoeffer-Realschule,Realschule,Ländchenweg 9,58332,Schwelm,Stadt Schwelm,3,51.284685477,7.30298561565
+243,Realschule Am Bleichstein,Realschule,Hengsteyseestraße 25,58313,Herdecke,Stadt Herdecke,3,51.3969138378,7.43809748971
+244,Helene-Lohmann-Realschule,Realschule,Bommerfelder Ring 111,58452,Witten ,Stadt Witten,3,51.4177755972,7.33963013557
+245,Holzkamp-Gesamtschule,Gesamtschule,Willy-Brandt-Str. 2,58453,Witten ,Stadt Witten,3,51.4378057417,7.37353964171
+246,Hardenstein-Gesamtschule,Gesamtschule,An der Wabeck 4,58456,Witten ,Stadt Witten,3,51.4157858782,7.27876483975
+247,Friedrich-Harkort-Schule,Gymnasium,Hengsteyseestraße 40,58313,Herdecke,Stadt Herdecke,3,51.3963593275,7.44079589301
+248,Geschwister-Scholl-Schule,Hauptschule,Schiessbergstraße 111,57078,Siegen,Stadt Siegen,4,50.9138843585,7.99781634586
+249,Achenbacher Schule,Hauptschule,Achenbacher Furt 7,57072,Siegen,Stadt Siegen,4,50.865629432,7.9936522777
+250,Kopernikusschule,Hauptschule,Am Porzhain 25,57290,Neunkirchen,Gemeinde Neunkirchen,3,50.788602134,8.01727428277
+251,Ludwig-zu-Sayn-Wittgenstein-Schule,Hauptschule,Hermann-Böttger-Weg 7,57319,Bad Berleburg,Stadt Bad Berleburg,1,51.039587704,8.3770893352
+252,Realschule Am Schiessberg,Realschule,Schiessbergstraße 103,57078,Siegen,Stadt Siegen,4,50.908677253,7.99441629856
+253,Realschule Am Oberen Schloss,Realschule,Burgstraße 10-14,57072,Siegen,Stadt Siegen,4,50.8750242161,8.02769080379
+254,Realschule Am Häusling,Realschule,Dr.-Ernst-Straße 19,57074,Siegen,Stadt Siegen,2,50.8695388979,8.01888346791
+255,Realschule des Freien Grundes,Realschule,Am Kirchweg 1,57290,Neunkirchen,Gemeinde Neunkirchen,2,50.7881245371,8.00969721817
+256,Realschule Am Kreuzberg,Realschule,Haardtstraße 35,57250,Netphen,Stadt Netphen,1,50.9183929696,8.09878809497
+257,Carl-Kraemer-Realschule,Realschule,Jung-Stilling-Allee 8,57271,Hilchenbach,Stadt Hilchenbach,1,50.9991877642,8.10471907607
+258,Bertha-von-Suttner-Schule,Gesamtschule,Kolpingstr. 35,57072,Siegen,Stadt Siegen,2,50.886321272,8.03822777732
+259,Gymnasium Stift Keppel,Gymnasium,Stift-Keppel-Weg 37,57271,Hilchenbach,Vereinigte Stifte Geseke-Keppel,1,50.9764492582,8.08423773916
+260,Gymnasium Auf der Morgenröthe,Gymnasium,Höllenwaldstr. 100,57080,Siegen,Stadt Siegen,2,50.8486581975,7.98234522228
+261,Fürst-Johann-Moritz-Gymnasium,Gymnasium,Ferndorfstr. 10,57076,Siegen,Stadt Siegen,3,50.9038467539,8.01833315958
+262,Gymnasium Am Löhrtor,Gymnasium,Oranienstr. 27,57072,Siegen,Stadt Siegen,3,50.871680416,8.02126787152
+263,Peter-Paul-Rubens-Gymnasium,Gymnasium,Rosterstraße 143,57074,Siegen,Stadt Siegen,3,50.8615147188,8.01902002285
+264,Dietrich-Bonhoeffer-Gymnasium,Gymnasium,Kopernikusring 100,57290,Neunkirchen,Gemeinde Neunkirchen,1,50.7886274573,8.01282072799
+265,Johannes-Althusius-Gymnasium,Gymnasium,Im Herrengarten 11,57319,Bad Berleburg,Stadt Bad Berleburg,1,51.0502658939,8.39126691892
+266,Anne-Frank-Schule Meggen,Hauptschule,Aufm Ohl 12d,57368,Lennestadt,Stadt Lennestadt,3,51.1145411393,8.06331040938
+267,Nikolaus-Kopernikus-Realschule,Realschule,Kopernikusstr. 22-24,57413,Finnentrop,Gemeinde Finnentrop,3,51.1711086096,7.9730418187
+268,Lessingschule Grevenbrück,Realschule,Lehmbergstr. 74,57368,Lennestadt,Stadt Lennestadt,1,51.1397592854,8.01838227937
+269,Realschule Olpe-Drolshagen,Realschule,Franziskanerstraße 4,57462,Olpe,Realschulverband Olpe/Drolshagen,2,51.0297074282,7.84194511133
+270,Hauptschule Letmathe,Hauptschule,Aucheler Straße 12,58642,Iserlohn,Stadt Iserlohn,3,51.3727545234,7.60401138072
+271,Realschule Letmathe,Realschule,Von-der-Kuhlen-Str. 12,58642,Iserlohn,Stadt Iserlohn,3,51.3669733164,7.61697264234
+272,Realschule Letmathe,Realschule,Von-der-Kuhlen-Str. 12,58642,Iserlohn,Stadt Iserlohn,3,51.3669733164,7.61697264234
+273,Geschwister-Scholl-Realschule,Realschule,Albert-Schweitzer-Str. 4,58840,Plettenberg,Stadt Plettenberg,2,51.2321709975,7.85521774864
+274,Richard-Schirrmann-Schule,Realschule,Buckesfelder Str. 73,58509,Lüdenscheid,Stadt Lüdenscheid,4,51.2244293203,7.60523038007
+275,Hans-Prinzhorn-Realschule,Realschule,Urbecker Straße 52,58675,Hemer,Stadt Hemer,3,51.3896439285,7.77449868099
+276,Richard-Schirrmann-Realschule,Realschule,Nettestraße 58-60,58762,Altena,Stadt Altena,3,51.2958675017,7.68060515609
+277,Albert-Einstein-Gesamtschule,Gesamtschule,Stadionstr. 50,58791,Werdohl,Stadt Werdohl,3,51.2533615046,7.78043353502
+278,Märkisches Gymnasium,Gymnasium,Alexander-Pfänder-Weg 7,58636,Iserlohn,Stadt Iserlohn,3,51.3896096056,7.70023083974
+279,Gymnasium an der Stenner,Gymnasium,Stennerstraße 5,58636,Iserlohn,Stadt Iserlohn,3,51.3780707091,7.69822248742
+280,Burggymnasium,Gymnasium,Bismarckstraße 10,58762,Altena,Stadt Altena,2,51.2981772917,7.67042320386
+281,Anne-Frank-Gymnasium,Gymnasium,Kantstraße 2,58553,Halver,Stadt Halver,1,51.1837219158,7.49171051498
+282,Bergstadt-Gymnasium,Gymnasium,Saarlandstraße 5,58511,Lüdenscheid,Stadt Lüdenscheid,3,51.2201913309,7.64543840774
+283,Geschwister-Scholl-Gymnasium,Gymnasium,Hochstr. 27,58511,Lüdenscheid,Stadt Lüdenscheid,2,51.2133551959,7.63500511568
+284,Zeppelin-Gymnasium,Gymnasium,Staberger Str. 10,58511,Lüdenscheid,Stadt Lüdenscheid,2,51.2133447519,7.63642232495
+285,Evangelisches Gymnasium Meinerzhagen,Gymnasium,Christoph-Friedrich-Baehrens-Straße,58540,Meinerzhagen,Evangelische Kirche von Westfalen,1,51.1099082702,7.63567793588
+286,Gymnasium Letmathe,Gymnasium,Aucheler Straße 10,58642,Iserlohn,Stadt Iserlohn,2,51.3728327724,7.60624012165
+287,Friedrich-Leopold-Woeste-Gymnasium,Gymnasium,Albert-Schweitzer-Straße 1,58675,Hemer,Stadt Hemer,2,51.3849990821,7.75742403788
+288,Johannes-Rau-Schule,Hauptschule,Wintersheide 32,33689,Bielefeld,Stadt Bielefeld,5,51.9414329501,8.57964034549
+289,Baumheideschule,Hauptschule,Schlehenweg 24,33609,Bielefeld,Stadt Bielefeld,5,52.0473269947,8.59071551605
+290,Brodhagenschule,Hauptschule,Am Brodhagen 50,33613,Bielefeld,Stadt Bielefeld,5,52.0418385933,8.51561980828
+291,Realschule Heepen,Realschule,Alter Postweg 33,33719,Bielefeld,Stadt Bielefeld,5,52.02897278,8.60063055845
+292,Realschule Senne,Realschule,Klashofstraße 79,33659,Bielefeld,Stadt Bielefeld,3,51.9598741507,8.52770395996
+293,Luisenschule,Realschule,Paulusstr. 9-11,33602,Bielefeld,Stadt Bielefeld,5,52.0271179009,8.53818699104
+294,Realschule Jöllenbeck,Realschule,Dörpfeldstr. 8,33739,Bielefeld,Stadt Bielefeld,3,52.0979623503,8.51941924568
+295,Bosseschule,Realschule,Bossestr. 10,33615,Bielefeld,Stadt Bielefeld,5,52.0292655885,8.51791206062
+296,Theodor-Heuss-Schule,Realschule,Wintersheide 30,33689,Bielefeld,Stadt Bielefeld,4,51.9423530332,8.58041574964
+297,Kuhloschule,Realschule,Fritz-Reuter-Str. 30,33604,Bielefeld,Stadt Bielefeld,5,52.012109118,8.55459579419
+298,Gesamtschule Rosenhöhe,Gesamtschule,An der Rosenhöhe 11,33647,Bielefeld,Stadt Bielefeld,4,51.9845707504,8.52898865151
+299,Gymnasium Am Waldhof,Gymnasium,Waldhof 8,33602,Bielefeld,Stadt Bielefeld,4,52.0188406066,8.5291387213
+300,Gymnasium Heepen,Gymnasium,Alter Postweg 37,33719,Bielefeld,Stadt Bielefeld,5,52.028886508,8.60169495214
+301,Brackweder Gymnasium,Gymnasium,Beckumer Str. 10,33647,Bielefeld,Stadt Bielefeld,4,51.9836227848,8.50170004707
+302,Helmholtz-Gymnasium,Gymnasium,Ravensberger Str. 131,33607,Bielefeld,Stadt Bielefeld,3,52.0179310196,8.54700701839
+303,Waldschule,Hauptschule,Koloniestr. 63,32339,Espelkamp,Stadt Espelkamp,4,52.3808359137,8.59746422294
+304,Freiherr-vom-Stein-Realschule,Realschule,Freiherr-vom-Stein-Straße 1,32369,Rahden,Stadt Rahden,1,52.4356603895,8.61785934447
+305,Realschule Hausberge,Realschule,Hoppenstraße 46,32457,Porta Westfalica,Stadt Porta Westfalica,1,52.2312432566,8.92295424106
+306,Realschule im Schulzentrum Nord,Realschule,Im Leingarten 29,32549,Bad Oeynhausen,Stadt Bad Oeynhausen,2,52.2187487465,8.79131565763
+307,Realschule Lahde,Realschule,Bultweg 23,32469,Petershagen,Stadt Petershagen,1,52.3725611128,9.00171783307
+308,Ratsgymnasium,Gymnasium,Königswall 28,32423,Minden,Stadt Minden,3,52.2858195959,8.9078684126
+309,Immanuel-Kant-Gymnasium,Gymnasium,Grüner Weg 28,32547,Bad Oeynhausen,Stadt Bad Oeynhausen,2,52.2024267293,8.81435599215
+310,Realschule im Schulzentrum Süd,Realschule,Grüner Weg 28,32547,Bad Oeynhausen,Stadt Bad Oeynhausen,3,52.2024267293,8.81435599215
+311,Kurt-Tucholsky-Gesamtschule,Gesamtschule,Königswall 10,32423,Minden,Stadt Minden,4,52.2882481454,8.91055991174
+312,Freies Evangelisches Gymnasium Minden ,Gymnasium,Kingsleyallee 5,32425,Minden,Christlicher Schulverein Minden e.V.,nicht zugeordnet,52.3123801504,8.88204378508
+313,Realschule Bünde-Mitte,Realschule,Strotweg 19,32257,Bünde,Stadt Bünde,3,52.1919995483,8.58678554041
+314,Goethe-Realschule,Realschule,Goethestr. 67,32584,Löhne,Stadt Löhne,3,52.198402307,8.77413796188
+315,Ernst-Barlach-Realschule,Realschule,Graf-Kanitz-Straße 11,32049,Herford,Stadt Herford,4,52.125072607,8.68624257896
+316,Olof-Palme-Gesamtschule,Gesamtschule,Pestalozzistraße 5,32120,Hiddenhausen,Gemeinde Hiddenhausen,3,52.1546889605,8.63436917268
+317,Erich-Kästner-Gesamtschule,Gesamtschule,Ringstr. 59,32257,Bünde,Gesamtschulverband,3,52.2060115068,8.55971065883
+318,Widukind-Gymnasium,Gymnasium,Tiefenbruchstr. 22,32130,Enger,Stadt Enger,1,52.1417281142,8.54838157186
+319,Freiherr-vom-Stein-Gymnasium,Gymnasium,Ringstr. 69,32257,Bünde,Stadt Bünde,2,52.2058931005,8.5568886137
+320,Königin-Mathilde-Gymnasium,Gymnasium,Vlother Str. 1,32049,Herford,Stadt Herford,2,52.1157346851,8.68957818114
+321,Ravensberger Gymnasium,Gymnasium,Werrestr. 10,32049,Herford,Stadt Herford,3,52.120601931,8.67808332599
+322,Friedrichs-Gymnasium,Gymnasium,Werrestraße 9,32049,Herford,Stadt Herford,2,52.1205048209,8.67401782836
+323,St.-Petri-Schule,Hauptschule,Petriweg 2,59759,Arnsberg,Stadt Arnsberg,4,51.4273367807,7.9970347897
+324,Grimmeschule,Hauptschule,Schwester-Aicharda-Straße 14,59755,Arnsberg,Stadt Arnsberg,3,51.4507596544,7.96787938807
+325,Christine-Koch-Schule,Hauptschule,Obringhauser Straße 38,57392,Schmallenberg,Stadt Schmallenberg,1,51.1615293993,8.28614775612
+326,Theodor-Heuss-Schule,Hauptschule,Petriweg 2,59759,Arnsberg,Stadt Arnsberg,2,51.4273727284,7.99703400269
+327,Konrad-Adenauer-Schule,Hauptschule,Im Ohl 9,59872,Meschede,Stadt Meschede,2,51.37440396,8.17783360728
+328,Erich-Kästner-Realschule,Realschule,Leißestr. 3,57392,Schmallenberg,Stadt Schmallenberg,1,51.1900938824,8.30523190227
+329,Marienschule,Realschule,Schulstr. 18-20,59929,Brilon,"Erzbischöfliches Generalvikariat,",1,51.3938020934,8.56640068771
+330,St.-Walburga-Schule,Realschule,An Klocken Kapelle 18,59872,Meschede,"Erzbischöfliches Generalvikariat,",1,51.3516022764,8.27409747304
+331,Geschwister-Scholl-Gymnasium,Gymnasium,Ursulinenstraße 24,59955,Winterberg,Schulzweckverband,1,51.1882922324,8.52580705084
+332,Carolus Magnus Gymnasium,Gymnasium,Schöffenwiese 2,34431,Marsberg,Stadt Marsberg,1,51.4644942877,8.85273415264
+333,St.-Ursula-Gymnasium,Gymnasium,Engelbertstr. 43,59755,Arnsberg,"Erzbischöfliches Generalvikariat,",2,51.4479416792,7.97145286221

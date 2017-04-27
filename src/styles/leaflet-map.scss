@@ -1,0 +1,38 @@
+.cor-viz-st__map {
+
+  &-leaflet {
+    height: 500px;
+
+    .l-marker {
+
+      &__circle {
+        fill-opacity: .3;
+        stroke: none;
+
+        &--s1 {
+          fill: $color-s1;
+        }
+
+        &--s2 {
+          fill: $color-s2;
+        }
+
+        &--s3 {
+          fill: $color-s3;
+        }
+
+        &--s4 {
+          fill: $color-s4;
+        }
+
+        &--s5 {
+          fill: $color-s5;
+        }
+
+      }
+
+    }
+
+  }
+
+}
