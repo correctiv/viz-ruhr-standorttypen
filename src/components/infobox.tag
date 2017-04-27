@@ -9,11 +9,15 @@ import './map-legend.tag'
     <dl>
       <dt>{ data.name }</dt>
       <dd>Schule</dd>
-      <dt>Standorttyp { data.standorttyp }</dt>
+      <dt>{ data.schulform }</dt>
+      <dd>Schulform</dd>
+      <dt>Standorttyp: <span class="cor-viz-st__stype cor-viz-st__stype--s{ data.standorttyp }">{ data.standorttyp }</span></dt>
     </dl>
     <dl>
       <dt>{ data.street }</dt>
       <dd>Straße</dd>
+      <dt>{ data.plz } { data.stadt }</dt>
+      <dd>PLZ, Ort</dd>
     </dl>
   </div>
 
