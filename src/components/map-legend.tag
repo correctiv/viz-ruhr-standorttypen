@@ -3,7 +3,7 @@
   <h4 class="cpr-viz-st__legend-title">Standorttypen</h4>
   <ul class="cor-viz-st__legend-list">
     <li each={ types }
-      class="cor-viz-st__stype-badge cor-viz-st__stype-badge--{ modifier }">
+      class="cor-viz-st__stype-badge cor-viz-st__stype-badge--{ modifier } cor-viz-st__stype-badge--small">
       { name }
     </li>
   </ul>

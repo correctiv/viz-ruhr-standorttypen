@@ -6,7 +6,7 @@
     .l-marker {
 
       &__circle {
-        fill-opacity: .4;
+        fill-opacity: $circle-opacity;
         stroke: none;
 
         &--s1 {
