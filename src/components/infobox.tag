@@ -21,7 +21,7 @@ import './map-legend.tag'
     </dl>
   </div>
 
-  <map-legend class="cor-viz-st__legend" config={ opts.legend } />
+  <map-legend class="cor-viz-st__legend" types={ opts.types } />
 
   riot.control.on(riot.EVT.updateInfobox, data => {
     this.update({data})
