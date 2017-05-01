@@ -8,17 +8,19 @@ import './map-legend.tag'
   <div if={ data } class="cor-viz-st__infobox-data">
     <dl>
       <dt>{ data.name }</dt>
-      <dd>Schule</dd>
-      <dt>{ data.schulform }</dt>
-      <dd>Schulform</dd>
+      <dd>{ data.schulform }<br>
+          { data.street }<br>
+          { data.plz } { data.stadt }
+      </dd>
       <dt>Standorttyp: <span class="cor-viz-st__stype-badge cor-viz-st__stype-badge--s{ data.standorttyp }">{ data.standorttyp }</span></dt>
     </dl>
-    <dl>
-      <dt>{ data.street }</dt>
-      <dd>Straße</dd>
-      <dt>{ data.plz } { data.stadt }</dt>
-      <dd>PLZ, Ort</dd>
-    </dl>
+    <div class="well">
+      <div class="cor-viz-st__stype-info">
+        <p><strong>Standorttyp { data.standorttyp } bedeutet:</strong><br>
+            { getTypeDesc(data.standorttyp) }
+        </p>
+      </div>
+    </div>
   </div>
 
   <map-legend class="cor-viz-st__legend" types={ opts.types } />
@@ -30,5 +32,9 @@ import './map-legend.tag'
   riot.control.on(riot.EVT.clearInfobox, () => {
     this.update({data: null})
   })
+
+  this.getTypeDesc = id => {
+    return this.opts.types[`s${id}`].desc
+  }
 
 </map-infobox>

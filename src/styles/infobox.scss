@@ -6,14 +6,19 @@
     dt {
       padding-top: .7em;
       font-size: 20px;
-      line-height: 1em;
+      line-height: 1.5em;
       font-family: $font-neuzeit;
       font-weight: bold;
     }
 
     dd {
       font-weight: normal;
-      line-height: 1em;
+      line-height: 1.5em;
+    }
+
+    .well {
+      margin: 0;
+      width: 100%;
     }
 
   }
