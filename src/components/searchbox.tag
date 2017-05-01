@@ -11,7 +11,7 @@ import {search} from '../scripts/data.js'
     <li each={ results }
       class="cor-viz-st__result-item"
       onclick={ handleClick }>
-      { name } - { stadt }
+      { name }<br><span>{ stadt }</span>
     </li>
   </ul>
 

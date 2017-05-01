@@ -3,6 +3,7 @@
   &__search-input {
     display: block;
     width: 100%;
+    padding: 3px;
   }
 
   &__search-annotation {
@@ -10,6 +11,30 @@
     line-height: 1;
     color: gray;
     font-style: italic;
+  }
+
+  &__result-list {
+    position: absolute;
+    background-color: white;
+    background-color: rgba(255, 255, 255, .7);
+    margin: 0;
+    margin-top: 10px;
+    padding: 0;
+    border: 1px solid gray;
+  }
+
+  &__result-item {
+    padding: 10px;
+    font-size: 14px;
+    list-style: none;
+
+    &:hover {
+      background-color: lighten(gray, 40%);
+    }
+
+    span {
+      font-weight: bold;
+    }
   }
 
 }
