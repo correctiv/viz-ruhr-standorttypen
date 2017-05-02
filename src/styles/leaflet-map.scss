@@ -1,7 +1,11 @@
 .cor-viz-st__map {
 
   &-leaflet {
-    height: 600px;
+    height: 300px;
+
+    @media (min-width: $screen-sm) {
+      height: 600px;
+    }
 
     .l-marker {
 
