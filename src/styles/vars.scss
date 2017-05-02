@@ -3,14 +3,22 @@ $screen-md: 992px;
 $screen-lg: 1200px;
 
 $hilight-color: #c81455;
-$circle-opacity: .4;
+$circle-opacity: .5;
 
 // standorttypen colors
-$color-s1: green;
-$color-s2: blue;
-$color-s3: yellow;
-$color-s4: brown;
-$color-s5: red;
+// d3.schemeRdYlGn[5]
+// [
+//   "#d7191c",
+//   "#fdae61",
+//   "#ffffbf",
+//   "#a6d96a",
+//   "#1a9641"
+// ]
+$color-s5: #d7191c;
+$color-s4: #fdae61;
+$color-s3: #ffffbf;
+$color-s2: #a6d96a;
+$color-s1: #1a9641;
 
 // typo
 $font-neuzeit: 'Neuzeit','Helvetica','Arial',sans-serif;

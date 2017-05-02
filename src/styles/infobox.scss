@@ -3,6 +3,10 @@
   &__infobox-data {
     font-size: 15px;
 
+    .annotation {
+      font-style: italic;
+    }
+
     dt {
       padding-top: .7em;
       font-size: 20px;
@@ -15,12 +19,17 @@
       font-weight: normal;
       line-height: 1.5em;
     }
+  }
+
+  &__stype-info {
+    @media (min-width: $screen-sm) {
+      position: absolute;
+      bottom: 0px;
+    }
 
     .well {
       margin: 0;
       width: 100%;
     }
-
   }
-
 }

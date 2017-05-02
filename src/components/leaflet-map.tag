@@ -1,12 +1,15 @@
+import '../components/reset-control.tag'
+import '../components/map-legend.tag'
+
 import initLeaflet from '../scripts/init_leaflet.js'
 import addMapData from '../scripts/add_map_data.js'
 import addMapEvents from '../scripts/add_map_events.js'
-import '../components/reset-control.tag'
 
 <leaflet-map>
 
   <div class="cor-viz-st__map-leaflet" id={ opts.elementId }>
-    <reset-control class="cor-viz-st__reset-control" />
+    <reset-control class="cor-viz-st__leaflet-control cor-viz-st__reset-control" />
+    <map-legend class="cor-viz-st__leaflet-control cor-viz-st__legend" types={ opts.types } />
   </div>
 
   this.on('mount', () => {

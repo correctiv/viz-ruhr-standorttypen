@@ -16,6 +16,7 @@ import '../components/infobox.tag'
 
 // mount components
 const CONFIG = require('json!../config.json')
+CONFIG.leaflet.types = CONFIG.infobox.types  // FIXME
 
 riot.mount('[data-is-riot="leaflet-map"]', 'leaflet-map', CONFIG.leaflet)
 riot.mount('[data-is-riot="map-infobox"]', 'map-infobox', CONFIG.infobox)

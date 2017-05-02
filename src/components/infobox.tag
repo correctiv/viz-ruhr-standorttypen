@@ -1,5 +1,4 @@
 import './searchbox.tag'
-import './map-legend.tag'
 
 <map-infobox>
 
@@ -13,17 +12,16 @@ import './map-legend.tag'
           { data.plz } { data.stadt }
       </dd>
       <dt>Standorttyp: <span class="cor-viz-st__stype-badge cor-viz-st__stype-badge--s{ data.standorttyp }">{ data.standorttyp }</span></dt>
+      <span class="annotation" if={ +data.data_2014 }>Daten von 2014</span>
     </dl>
-    <div class="well">
-      <div class="cor-viz-st__stype-info">
+    <div class="cor-viz-st__stype-info">
+      <div class="well">
         <p><strong>Standorttyp { data.standorttyp } bedeutet:</strong><br>
             { getTypeDesc(data.standorttyp) }
-        </p>
+          </p>
+        </div>
       </div>
-    </div>
   </div>
-
-  <map-legend class="cor-viz-st__legend" types={ opts.types } />
 
   riot.control.on(riot.EVT.updateInfobox, data => {
     this.update({data})
