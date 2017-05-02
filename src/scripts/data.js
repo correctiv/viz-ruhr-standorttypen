@@ -1,4 +1,6 @@
-const getSearchString = ({name, stadt, plz}) => name.toLowerCase() + stadt.toLowerCase() + plz
+const getSearchString = ({name, stadt, street, plz}) => {
+  return name.toLowerCase() + stadt.toLowerCase() + street.toLowerCase() + plz
+}
 
 const DATA = require('dsv!../data/standorttypen.csv').map(d => {
   d.search = getSearchString(d)
