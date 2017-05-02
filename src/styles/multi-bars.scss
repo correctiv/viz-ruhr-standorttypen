@@ -1,0 +1,122 @@
+.multi-bars {
+  &__legend {
+    display: block;
+    padding-bottom: 30px;
+
+    @media (min-width: $screen-sm) {
+      padding-left: 25%;
+    }
+
+    .btn {
+      height: 40px;
+      margin-top: 20px;
+      display: block;
+
+      @media (min-width: $screen-sm / 1.5) {
+        display: inline;
+        margin-top: 0px;
+      }
+    }
+  }
+
+  &__button {
+    border: none;
+    transition: all .1s;
+
+    &:hover, &--active {
+      transition: all .1s;
+      border-radius: 5px;
+    }
+  }
+
+  &__table {
+    padding-top: 30px;
+  }
+
+  &__row {
+    clear: both;
+    min-height: 60px;
+    padding-bottom: 20px;
+  }
+
+  &__cell {
+
+    &--label {
+      width: 100%;
+      font-size: 16px;
+
+      strong {
+        font-size: 18px;
+      }
+
+      @media (min-width: $screen-sm) {
+        width: 25%;
+        float: left;
+      }
+    }
+  }
+
+  &__chart {
+    height: 30px;
+    width: 100%;
+    margin-bottom: 20px;
+
+    @media (min-width: $screen-sm) {
+      width: 75%;
+      float: left;
+    }
+  }
+
+  &__bar {
+    position: relative;
+    height: 30px;
+    float: left;
+
+    &-label {
+      position: absolute;
+      left: 3px;
+      font-size: 12px;
+      font-family: $font-neuzeit;
+      font-weight: bold;
+      line-height: 30px;
+
+      @media (min-width: $screen-sm) {
+        font-size: 14px;
+        left: 10px;
+      }
+
+      .--hide-sm {
+        @media (max-width: $screen-sm) {
+          display: none;
+        }
+      }
+
+      .--hide-md {
+        @media (max-width: $screen-md) {
+          display: none;
+        }
+      }
+    }
+
+    &--s1 {
+      @include background-opacity($color-s1);
+    }
+
+    &--s2 {
+      @include background-opacity($color-s2);
+    }
+
+    &--s3 {
+      @include background-opacity($color-s3);
+    }
+
+    &--s4 {
+      @include background-opacity($color-s4);
+    }
+
+    &--s5 {
+      @include background-opacity($color-s5);
+    }
+  }
+
+}

@@ -8,6 +8,7 @@
 @import './searchbox.scss';
 @import './stype-badge.scss';
 @import './reset-control.scss';
+@import './multi-bars.scss';
 
 // base layout
 .cor-viz-st {
@@ -24,12 +25,14 @@
 
   &__info-container {
     // position: relative;
+    padding-top: 20px;
     display: block;
     width: 100%;
 
     @media (min-width: $screen-sm) {
       float: left;
       width: 30%;
+      padding-top: 0px;
       padding-left: 20px;
     }
   }

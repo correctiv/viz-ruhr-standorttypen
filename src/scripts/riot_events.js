@@ -7,5 +7,7 @@ riot.EVT = {
   setMarker: 'set_marker',
   clearMarker: 'clear_marker',
   clearResults: 'clear_results',
-  resetMap: 'reset_map'
+  resetMap: 'reset_map',
+  multiBarsOrderBy: 'multibars_orderby',
+  multiBarsReset: 'multibars_reset'
 }
