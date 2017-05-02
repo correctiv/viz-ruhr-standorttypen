@@ -6,5 +6,6 @@ riot.EVT = {
   mapJumpTo: 'map_jump_to',
   setMarker: 'set_marker',
   clearMarker: 'clear_marker',
-  clearResults: 'clear_results'
+  clearResults: 'clear_results',
+  resetMap: 'reset_map'
 }

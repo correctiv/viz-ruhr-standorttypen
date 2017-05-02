@@ -1,16 +1,19 @@
 import initLeaflet from '../scripts/init_leaflet.js'
 import addMapData from '../scripts/add_map_data.js'
 import addMapEvents from '../scripts/add_map_events.js'
+import '../components/reset-control.tag'
 
 <leaflet-map>
 
-  <div class="cor-viz-st__map-leaflet" id={ opts.elementId }></div>
+  <div class="cor-viz-st__map-leaflet" id={ opts.elementId }>
+    <reset-control class="cor-viz-st__reset-control" />
+  </div>
 
   this.on('mount', () => {
     this.map = initLeaflet(this.opts)
-    // this.map.on('click', () => riot.control.trigger(riot.EVT.clearMarker))
     this.featGroup = addMapData(this.map)
-    this.map.fitBounds(this.featGroup.getBounds())
+    this.bounds = this.featGroup.getBounds()
+    this.resetMap()
     addMapEvents(this.featGroup)
   })
 
@@ -33,8 +36,19 @@ import addMapEvents from '../scripts/add_map_events.js'
   riot.control.on(riot.EVT.clearMarker, () => {
     const m = riot.STATE.currentMarker
     m && this.map.removeLayer(m)
+    riot.STATE.currentMarker = null
   })
 
+  riot.control.on(riot.EVT.resetMap, () => {
+    this.resetMap()
+  })
+
+  this.resetMap = () => {
+    this.map.fitBounds(this.bounds)
+    riot.control.trigger(riot.EVT.clearMarker)
+    riot.control.trigger(riot.EVT.clearInfobox)
+    riot.control.trigger(riot.EVT.clearResults)
+  }
   // riot.control.on(riot.EVT.clearInfobox, () => {
   //   riot.control.trigger(riot.EVT.clearMarker)
   // })
