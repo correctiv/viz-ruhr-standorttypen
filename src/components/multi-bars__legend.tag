@@ -1,7 +1,7 @@
 <multi-bars-legend>
 
   <h4>Standorttypen</h4>
-  <p class="small">Sortiere diese Tabelle nach dem Anteil der Schulen eines bestimmten Standorttyps</p>
+  <p class="small">Klicke auf einen der runden Buttons und sortiere diese Tabelle nach dem Anteil der Schulen pro Standorttyp.</p>
   <button each={ types }
     onclick={ orderBy }
     class="multi-bars__button { multi-bars__button--active: active === modifier } cor-viz-st__stype-badge cor-viz-st__stype-badge--{ modifier }">
