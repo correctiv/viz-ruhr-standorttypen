@@ -1,5 +1,18 @@
 import './searchbox.tag'
 
+<raw-html>
+  this.updateContent = () => {
+    this.root.innerHTML = this.opts.content
+  }
+
+  this.on('update', () => {
+    this.updateContent()
+  })
+
+  this.updateContent()
+</raw-html>
+
+
 <map-infobox>
 
   <map-searchbox config={ opts.searchbox }/>
@@ -16,9 +29,8 @@ import './searchbox.tag'
     </dl>
     <div class="cor-viz-st__stype-info">
       <div class="well">
-        <p><strong>Standorttyp { data.standorttyp } bedeutet:</strong><br>
-            { getTypeDesc(data.standorttyp) }
-          </p>
+        <h4>Standorttyp { data.standorttyp } bedeutet:</h4>
+          <raw-html content={ getTypeDesc(data.standorttyp) } />
         </div>
       </div>
   </div>

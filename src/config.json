@@ -13,23 +13,23 @@
     "types": {
       "s1": {
         "label": "Standorttyp 1",
-        "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  "
+        "desc": "<dl><dt>15 bis 25 Prozent</dt><dd>Schüler mit Migrationshintergrund</dd><dt>ca. 5 Prozent</dt><dd>Sozialleistungs-Empfänger im Schulumfeld (5km-Umkreis)</dd></dl>"
       },
       "s2": {
         "label": "Standorttyp 2",
-        "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  "
+        "desc": "<dl><dt>25 bis 35 Prozent</dt><dd>Schüler mit Migrationshintergrund</dd><dt>5 bis 10 Prozent</dt><dd>Sozialleistungs-Empfänger im Schulumfeld (5km-Umkreis)</dd></dl>"
       },
       "s3": {
         "label": "Standorttyp 3",
-        "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  "
+        "desc": "<dl><dt>30 bis 40 Prozent</dt><dd>Schüler mit Migrationshintergrund</dd><dt>5 bis 15 Prozent</dt><dd>Sozialleistungs-Empfänger im Schulumfeld (5km-Umkreis)</dd></dl>"
       },
       "s4": {
         "label": "Standorttyp 4",
-        "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  "
+        "desc": "<dl><dt>35 bis 50 Prozent</dt><dd>Schüler mit Migrationshintergrund</dd><dt>10 bis 15 Prozent</dt><dd>Sozialleistungs-Empfänger im Schulumfeld (5km-Umkreis)</dd></dl>"
       },
       "s5": {
         "label": "Standorttyp 5",
-        "desc": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  "
+        "desc": "<dl><dt>über 50 Prozent</dt><dd>Schüler mit Migrationshintergrund</dd><dt>15 bis 20 Prozent</dt><dd>Sozialleistungs-Empfänger im Schulumfeld (5km-Umkreis)</dd></dl>"
       }
     }
   },
