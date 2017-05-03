@@ -17,10 +17,10 @@ import '../components/leaflet-map.tag'
 import '../components/infobox.tag'
 import '../components/multi-bars.tag'
 
-// mount components
 const CONFIG = require('json!../config.json')
 CONFIG.multiBars.types = CONFIG.leaflet.types = CONFIG.infobox.types  // FIXME
 
+// mount components
 riot.mount('[data-is-riot="leaflet-map"]', 'leaflet-map', CONFIG.leaflet)
 riot.mount('[data-is-riot="map-infobox"]', 'map-infobox', CONFIG.infobox)
 riot.mount('[data-is-riot="small-multi-bars"]', 'multi-bars', CONFIG.multiBars)
