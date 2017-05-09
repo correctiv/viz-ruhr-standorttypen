@@ -1,7 +1,7 @@
 <multi-bars-legend>
 
-  <h4>Standorttypen</h4>
-  <p class="small">Klicke auf einen der runden Buttons und sortiere diese Tabelle nach dem Anteil der Schulen pro Standorttyp.</p>
+  <h4>Sortiere die Städte und Kreise</h4>
+  <p class="small">Klicke auf einen der runden Buttons. Dann werden die Städte und Kreise des Ruhrgebiets (ganz linke Spalte) nach dem Anteil der Schulen mit diesem Standorttyp sortiert.</p>
   <button each={ types }
     onclick={ orderBy }
     class="multi-bars__button { multi-bars__button--active: active === modifier } cor-viz-st__stype-badge cor-viz-st__stype-badge--{ modifier }">
