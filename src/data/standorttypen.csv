@@ -13,7 +13,7 @@ Emscherschule Aplerbeck,Hauptschule,Dortmund,4,51.491,7.559,Schweizer Allee 25,4
 Hauptschule Kley,Hauptschule,Dortmund,3,51.512,7.45,Möllerstraße 3,44137,0
 Konrad-von-der-Mark-Schule (Hauptschule Hörde),Hauptschule,Dortmund,4,51.479,7.492,Stettiner Str. 10,44263,0
 Hauptschule Scharnhorst,Hauptschule,Dortmund,5,51.554,7.531,Meuselwitzstraße 43,44328,0
-Schule am Hafen,Hauptschule,Dortmund,5,51.527,7.456,Uhlandstraße 88,44147,0
+Schule am Hafen,Hauptschule,Dortmund,5,51.525,7.449,Lützowstraße 75,44147,0
 Hauptschule Westerfilde,Hauptschule,Dortmund,4,51.545,7.369,Im Odemsloh 107,44357,0
 Bert-Brecht-Gymnasium,Gymnasium,Dortmund,4,51.518,7.361,Sumbecks Holz 5,44379,0
 Goethe-Gymnasium,Gymnasium,Dortmund,3,51.48,7.492,Stettiner Str. 12,44263,0
@@ -95,7 +95,7 @@ Realschule Crange,Realschule,Herne,5,51.54,7.152,Semlerstraße 4,44649,0
 Realschule Sodingen,Realschule,Herne,4,51.549,7.271,Castroper Str. 251,44627,0
 realschule Strünkede,Realschule,Herne,5,51.546,7.212,Bismarckstraße 41,44629,0
 Fasia-Jansen-Gesamtschule,Gesamtschule,Oberhausen,5,51.474,6.862,Schwartzstraße 87,46045,0
-Heinrich-Böll-Gesamtschule,Gesamtschule,Oberhausen,3,51.548,6.825,Eichsfeldstraße 20,46147,0
+Heinrich-Böll-Gesamtschule,Gesamtschule,Oberhausen,3,51.551,6.836,Auf der Haardt￼ 3,46147,0
 Gesamtschule Osterfeld,Gesamtschule,Oberhausen,5,51.505,6.889,Lilienthalstraße,46117,0
 Gesamtschule Weierheide,Gesamtschule,Oberhausen,4,51.517,6.829,Egelsfurthstraße 66,46149,0
 Albert-Schweitzer-Hauptschule,Hauptschule,Oberhausen,5,51.525,6.874,Elpenbachstraße 112,46119,0
@@ -146,18 +146,19 @@ Realschule an der Niers,Realschule,Mönchengladbach,5,51.152,6.456,Giesenkirchen
 Geschwister-Scholl-Realschule,Realschule,Mönchengladbach,4,51.201,6.408,Karl-Fegers-Straße 85,41068,0
 Realschule Volksgarten,Realschule,Mönchengladbach,5,51.189,6.454,Luise-Vollmar-Straße 25,41065,0
 Realschule Wickrath,Realschule,Mönchengladbach,4,51.127,6.407,Kreuzhütte 24,41189,0
-Gustav-Heinemann-Schule,Gesamtschule,Mühlheim,3,51.449,6.903,Boverstraße 150,45473,0
-Gesamtschule Saarn,Gesamtschule,Mühlheim,4,51.401,6.869,Lehnerstraße 65,45481,0
-Willy-Brandt-Gesamtschule,Gesamtschule,Mühlheim,4,50.984,7.044,Im Weidenbruch 214,51061,0
-Städtische Gemeinschaftshauptschule Dümpten (Schule am Hexbachtal),Hauptschule,Mühlheim,5,51.462,6.908,Borbecker Str. 86-92,45475,0
-Städtisches Gymnasium Broich,Gymnasium,Mühlheim,3,51.421,6.863,Ritterstraße 21,45479,0
-Städtisches Gymnasium Heißen,Gymnasium,Mühlheim,4,51.427,6.94,Kleiststraße 50,45472,0
-Karl-Ziegler-Schule,Gymnasium,Mühlheim,4,51.423,6.882,Schulstraße 2-6,45468,0
-Luisenschule,Gymnasium,Mühlheim,3,51.423,6.9,An den Buchen 36,45470,0
-Otto-Pankok-Schule,Gymnasium,Mühlheim,3,51.426,6.895,Von-Bock-Straße 81,45468,0
-Realschule Broich,Realschule,Mühlheim,3,51.42,6.863,Holzstraße 80,45479,0
-Realschule Stadtmitte,Realschule,Mühlheim,4,51.425,6.895,Oberstraße 92,45468,0
-Realschule an der Mellinghofer Straße,Realschule,Mühlheim,4,51.442,6.888,Mellinghofer Str. 56,45473,0
+Gustav-Heinemann-Schule,Gesamtschule,Mülheim an der Ruhr,3,51.449,6.903,Boverstraße 150,45473,0
+Gesamtschule Saarn,Gesamtschule,Mülheim an der Ruhr,4,51.401,6.869,Lehnerstraße 65,45481,0
+Willy-Brandt-Gesamtschule,Gesamtschule,Mülheim an der Ruhr,4,51.453,6.86,Willy−Brandt−Schule,Oberhausener,0
+Städtische Gemeinschaftshauptschule Dümpten (Schule am Hexbachtal),Hauptschule,Mülheim an der Ruhr,5,51.462,6.908,Borbecker Str. 86-92,45475,0
+Städtisches Gymnasium Broich,Gymnasium,Mülheim an der Ruhr,3,51.421,6.863,Ritterstraße 21,45479,0
+Städtisches Gymnasium Heißen,Gymnasium,Mülheim an der Ruhr,4,51.427,6.94,Kleiststraße 50,45472,0
+Karl-Ziegler-Schule,Gymnasium,Mülheim an der Ruhr,4,51.423,6.882,Schulstraße 2-6,45468,0
+Luisenschule,Gymnasium,Mülheim an der Ruhr,3,51.423,6.9,An den Buchen 36,45470,0
+Otto-Pankok-Schule,Gymnasium,Mülheim an der Ruhr,3,51.426,6.895,Von-Bock-Straße 81,45468,0
+Realschule Broich,Realschule,Mülheim an der Ruhr,3,51.42,6.863,Holzstraße 80,45479,0
+Realschule Stadtmitte,Realschule,Mülheim an der Ruhr,4,51.425,6.895,Oberstraße 92,45468,0
+Max-Kölges-Schule,Hauptschule,Mülheim an der Ruhr,5,51.436,6.896,Bruchstraße 85,45468,0
+Realschule an der Mellinghofer Straße,Realschule,Mülheim an der Ruhr,4,51.442,6.888,Mellinghofer Str. 56,45473,0
 Janusz-Korczak-Gesamtschule,Gesamtschule,Castrop-Rauxel,3,51.599,7.33,Waldenburger Str. 130,44581,0
 Willy-Brandt-Gesamtschule,Gesamtschule,Castrop-Rauxel,4,51.563,7.311,Bahnhofstraße 160,44575,0
 Franz-Hillebrand-Hauptschule,Hauptschule,Castrop-Rauxel,3,51.593,7.348,Uferstraße 36,44581,0
@@ -191,7 +192,7 @@ Joseph-König-Gymnasium,Gymnasium,Haltern,1,51.739,7.183,Holtwicker Str. 3,45721
 Alexander-Lebenstein-Realschule,Realschule,Haltern,1,51.739,7.182,Holtwicker Str. 5,45721,0
 Rosa-Parks-Schule,Gesamtschule,Herten,5,51.609,7.138,Fritz-Erler-Straße 2,45701,0
 Martin-Luther-Schule,Hauptschule,Herten,4,51.609,7.089,Martin-Luther-Straße 3,45701,0
-Theodor-Heuss-Schule,Hauptschule,Herten,5,51.594,7.142,Vitusstraße 9,45699,0
+Theodor-Heuss-Schule,Hauptschule,Herten,5,51.609,7.089,Martin-Luther-Straße 3,45701,0
 Gymnasium Gartenstraße,Gymnasium,Herten,3,51.596,7.139,Gartenstraße 40,45699,0
 Erich-Klausener-Schule,Realschule,Herten,3,51.6,7.129,Ebbelicher Weg 19,45699,0
 Städtische Realschule,Realschule,Herten,4,51.601,7.125,Paschenbergstraße 91,45699,0
@@ -301,7 +302,7 @@ Konrad-Adenauer-Gymnasium,Gymnasium,Langenfeld,2,51.112,6.947,Auf dem Sändchen 
 Felix-Metzmacher-Schule,Katholische Hauptschule,Langenfeld,3,51.107,6.95,Metzmacherstraße 9,40764,0
 Johann-Gutenberg-Schule,Realschule,Langenfeld,3,51.106,6.951,Fröbelstraße 19,40764,0
 Kopernikusschule,Realschule,Langenfeld,3,51.12,6.954,Immigrather Str. 61,40764,0
-Anne-Frank-Schule,Hauptschule,Mettmann,4,51.302,6.854,Mülheimer Str. 47,40878,0
+Anne-Frank-Schule,Hauptschule,Mettmann,4,51.257,6.972,Borner Weg 5,40822,0
 Heinrich-Heine-Gymnasium,Gymnasium,Mettmann,2,51.266,6.964,Hasselbeckstraße 2-4,40822,0
 Konrad-Heresbach-Gymnasium,Gymnasium,Mettmann,2,51.247,6.972,Laubacher Str. 13,40822,0
 Carl-Fuhlrott-Realschule,Realschule,Mettmann,3,51.256,6.969,Goethestraße 33,40822,0
@@ -436,7 +437,6 @@ Realschule Am Bohlgarten (läuft aus),Realschule,Schwerte,2,51.444,7.554,Holzene
 Ludwig-Uhland-Realschule,Realschule,Lünen,4,51.598,7.556,Preußenstraße 162,44532,1
 Freiherr-vom-Stein-Realschule,Realschule,Bergkamen,3,51.621,7.649,Hochstraße 54,59192,1
 Realschule Oberaden,Realschule,Bergkamen,3,51.611,7.597,Pantenweg 12,59192,1
-Realschule Am Stadtpark (läuft aus),Realschule,Schwerte,3,51.441,7.563,Am Stadtpark 1,58239,1
 Humboldt-Realschule,Realschule,Bönen,3,51.603,7.765,Billy-Montigny-Platz 5,59199,1
 Realschule Altlünen,Realschule,Lünen,3,51.633,7.521,Rudolph-Nagell-Straße 23,44534,1
 Konrad-Adenauer-Realschule,Realschule,Werne,2,51.665,7.632,Bahnhofstraße 1,59368,1
@@ -560,8 +560,6 @@ Städtisches Gymnasium Olpe (Seminarstraße),Gymnasium,Olpe,1,51.033,7.847,Semin
 Hauptschule im Wiesengrund (läuft 2017 aus),Hauptschule,Iserlohn,5,51.378,7.719,Im Wiesengrund 35,58636,0
 Martin-Luther-Hauptschule,Hauptschule,Iserlohn,5,51.376,7.688,Gerlingser Weg 7,58638,0
 Zeppelinschule Plettenberg,Hauptschule,Plettenberg,4,51.205,7.871,Zeppelinstraße 24,58840,0
-Albert-Schweitzer-Hauptschule (geschlossen 2016),Hauptschule,Nachrodt-Wiblingwerde,4,51.331,7.638,Holensiepen 3,58769,0
-Ganztagsschule Haler ( Mühlenstraße),Hauptschule,Halver,4,51.184,7.493,Mühlenstraße 2,58553,0
 Albert-Schweitzer-Hauptschule (geschlossen),Hauptschule,Lüdenscheid,5,51.224,7.644,Kaiserallee 28,58511,0
 Städtische Gemeinschaftshauptschule Balve (Am Krumpaul),Hauptschule,Balve,2,51.329,7.853,Am Krumpaul 6,58802,0
 Hauptschule Letmathe,Hauptschule,Iserlohn,3,51.373,7.604,Aucheler Str. 12,58642,0
@@ -579,7 +577,6 @@ Realschule Halver (Humboldtstraße),Realschule,Halver,2,51.187,7.495,Humboldtstr
 Theodor-Heuss-Realschule,Realschule,Lüdenscheid,4,51.213,7.656,Gustavstraße 37,58511,0
 Richard-Schirrmann-Schule,Realschule,Lüdenscheid,4,51.224,7.605,Buckesfelder Str. 73,58509,0
 Schulzentrum Rothenstein,Realschule,Meinerzhagen,3,51.108,7.659,Schulzentrum Rothenstein,58540,0
-Maria Montessorischule,Realschule,Schalksmühle,1,51.679,6.958,Juliusstraße 40,46284,0
 Städtische Realschule Balve (Am Krumpaul),Realschule,Balve,1,51.329,7.854,Am Krumpaul 4,58802,0
 Realschule Letmathe,Realschule,Iserlohn,3,51.367,7.617,Von-der-Kuhlen-Straße 12,58642,0
 Städtische Realschule Menden (Windthorststraße),Realschule,Menden,2,51.429,7.795,Klosterstraße 20,58706,0
@@ -730,6 +727,7 @@ Realschule Marsberg (Lillers-Straße),Realschule,Marsberg,1,51.46,8.846,Trift 33
 Mariengymnasium,Gymnasium,Arnsberg,1,51.393,8.061,Königstraße 36A,59821,0
 Gymnasium Sundern (Berliner Straße),Gymnasium,Sundern,1,51.321,8.0,Berliner Str. 55,59846,0
 Gymnasium der Stadt Meschede (Schederweg),Gymnasium,Meschede,2,51.341,8.297,Schederweg 65,59872,0
+Gymnasium Petrinum,Gymnasium,Brilon,1,51.357,8.463,Norbachstraße 1,59939,0
 Franz-Stock-Gymnasium,Gymnasium,Arnsberg,2,51.437,7.968,Berliner Pl. 5,59759,0
 Gymnasium der Benediktiner,Gymnasium,Meschede,1,51.354,8.278,Klosterberg 7,59872,0
 Geschwister-Scholl-Gymnasium,Gymnasium,Winterberg,1,51.188,8.526,Ursulinenstraße 24,59955,0

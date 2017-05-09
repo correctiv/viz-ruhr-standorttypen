@@ -29,7 +29,7 @@
       },
       "s5": {
         "label": "Standorttyp 5",
-        "desc": "<dl><dt>über 50 Prozent</dt><dd>Schüler mit Migrationshintergrund</dd><dt>15 bis 20 Prozent</dt><dd>Sozialleistungs-Empfänger im Schulumfeld (5km-Umkreis)</dd></dl>"
+        "desc": "<dl><dt>über 50 Prozent</dt><dd>Schüler mit Migrationshintergrund</dd><dt>15 bis 25 Prozent</dt><dd>Sozialleistungs-Empfänger im Schulumfeld (5km-Umkreis)</dd></dl>"
       }
     }
   },
